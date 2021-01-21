@@ -1,0 +1,7 @@
+input 파일 이름은 input.txt, output 파일 이름은 output.txt로 만들었습니다.
+
+지금 만들어져 있는 input.txt와 output.txt은 lab1 pdf에 있는 예제입니다.
+
+코드 테스트를 하실 때에는 반드시 파일 이름을 input.txt로 해주시기 바랍니다!
+
+해당 코드는 python3.6.9에서 작성되었습니다.
